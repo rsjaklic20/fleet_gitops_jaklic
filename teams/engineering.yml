@@ -45,3 +45,5 @@ team_settings:
       policy_ids:
         - 630
 software:
+  packages:
+    - path: ../lib/windows/software/cloudflare-warp.yml
